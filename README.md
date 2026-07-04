@@ -24,7 +24,7 @@
         <li>Co-Founder, Full-stack Developer, AI Engineer, DevOps Engineer, and UI/UX Designer at <strong>Omilearn</strong>.</li>
         <li>Focused on scalable backend systems, RAG applications, document AI, and user-focused product engineering.</li>
         <li>Hands-on with React/Next.js, Node.js/Express, FastAPI, PostgreSQL, Docker, CI/CD, OCR, Vision AI, and PDF processing.</li>
-        <li>GPA: <strong>8.29/10</strong>. Based in <strong>Ho Chi Minh City, Vietnam</strong>.</li>
+        <li>GPA: <strong>3.53/4</strong>. Based in <strong>Ho Chi Minh City, Vietnam</strong>.</li>
       </ul>
     </td>
     <td width='42%' valign='top'>
