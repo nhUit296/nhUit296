@@ -4,7 +4,7 @@
   <img width='100%' src='https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Thach%20Nhu&fontSize=60&fontColor=FFFFFF&animation=fadeIn&desc=Full-stack%20Developer%20%7C%20AI%20Engineer%20%7C%20RAG%20Builder&descSize=18&descAlignY=63' alt='Thach Nhu profile banner' />
 
   <a href='https://github.com/nhUit296'><img src='https://img.shields.io/badge/GitHub-nhUit296-181717?style=for-the-badge&logo=github&logoColor=white' alt='GitHub' /></a>
-  <a href='mailto:chanelhynvuigames@gmail.com'><img src='https://img.shields.io/badge/Email-chanelhynvuigames%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white' alt='Email' /></a>
+  <a href='mailto:n.thach2965@gmail.com'><img src='https://img.shields.io/badge/Email-chanelhynvuigames%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white' alt='Email' /></a>
   <a href='https://omilearn.com'><img src='https://img.shields.io/badge/Omilearn-Live_Product-00C2FF?style=for-the-badge&logo=vercel&logoColor=white' alt='Omilearn' /></a>
   <img src='https://komarev.com/ghpvc/?username=nhUit296&style=for-the-badge&color=38BDF8' alt='Profile views' />
 
